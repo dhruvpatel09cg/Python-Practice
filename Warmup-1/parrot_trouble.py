@@ -5,3 +5,6 @@ def parrot_trouble(talking, hour):
 
 print(parrot_trouble(False,3))
 print(parrot_trouble(True,20))
+print(parrot_trouble(False,14))
+print(parrot_trouble(True,5))
+print(parrot_trouble(True,22))
