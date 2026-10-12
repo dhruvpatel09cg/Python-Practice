@@ -6,3 +6,5 @@ def makes10(a, b):
     return False
 
 print(makes10(4,6))
+print(makes10(5,10))
+print(makes10(5,2))
