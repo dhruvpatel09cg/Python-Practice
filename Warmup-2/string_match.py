@@ -6,3 +6,6 @@ def string_match(a, b):
         if a2 == b2:
             count = count + 1
     return count
+
+print(string_match("coffee", "cockroach"))
+print(string_match("abbxccz","abbdcccz"))
