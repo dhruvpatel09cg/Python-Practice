@@ -3,5 +3,6 @@ def string_bits(str):
     for i in range(len(str)):
         if i % 2 == 0:
             result = result + str[i]
-        return result
-print(string_bits(""))
+    return result
+
+print(string_bits("Hello"))
