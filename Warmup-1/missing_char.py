@@ -4,3 +4,4 @@ def missing_char(str, n):
     return "Invalid"
 
 print(missing_char('code', 2))
+print(missing_char("Boxing",6))
