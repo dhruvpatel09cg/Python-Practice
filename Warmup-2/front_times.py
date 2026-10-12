@@ -5,3 +5,4 @@ def front_times(str, n):
     return result
 
 print(front_times("Jatin",5))
+print(front_times("ok",4))
