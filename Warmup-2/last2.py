@@ -1,5 +1,5 @@
 def last2(str):
-    if len.str < 2:
+    if len(str) < 2:
         return 0
     l2 = str[-2:]
     count = 0
@@ -8,3 +8,6 @@ def last2(str):
         if sub == l2:
             count = count + 1
     return count
+
+print(last2("f"))
+print(last2("hehehehehehejsnlklwnhe"))
