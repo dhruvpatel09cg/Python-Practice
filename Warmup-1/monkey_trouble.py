@@ -6,3 +6,5 @@ def monkey_trouble(a_smile, b_smile):
     return False
 
 print(monkey_trouble(False, False))
+print(monkey_trouble(True,False))
+print(monkey_trouble(True,True))
